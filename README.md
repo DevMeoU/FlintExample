@@ -8,7 +8,7 @@ Before you start, make sure you have installed:
 - Use vscode and install [`FlintJVM Debug`](https://marketplace.visualstudio.com/items?itemName=ElectricThanhTung.flintjvm-debugger) extension.
 - Make sure you have javac (java compiler) installed and can call it in terminal window. You can also run the command `javac --version` to check.
 ## How to run example:
-- Open an example you want to run in vscode. For example, open the **FlintExample/examples/FlintIO/Pin** folder.
+- Open an example you want to run in vscode. For example, open the [**FlintExample/java/flint.io/Pin**](/java/flint.io/Pin) folder.
 - Update the `port` parameter in the **launch.json** file to match the actual port connected to your board.
 - To compile the project, click `Terminal > Run Build Task...` or press `Ctrl` + `Shift` + `B`, alternatively, you can also use the `make` command.. After successful compilation, **bin/Main.class** file will be created.
 - Click `Run > Start Debugging` or press `F5` to run and debug the project.

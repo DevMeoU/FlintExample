@@ -9,6 +9,10 @@
 			"path": "java/java.base/Thread"
 		},
 		{
+			"name": "Timer",
+			"path": "java/java.base/Timer"
+		},
+		{
 			"name": "Pin",
 			"path": "java/flint.io/Pin"
 		},
