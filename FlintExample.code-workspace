@@ -2,67 +2,67 @@
 	"folders": [
 		{
 			"name": "HelloWorld",
-			"path": "examples/java.base/HelloWorld"
+			"path": "java/java.base/HelloWorld"
 		},
 		{
 			"name": "Thread",
-			"path": "examples/java.base/Thread"
+			"path": "java/java.base/Thread"
 		},
 		{
 			"name": "Pin",
-			"path": "examples/flint.io/Pin"
+			"path": "java/flint.io/Pin"
 		},
 		{
 			"name": "Port",
-			"path": "examples/flint.io/Port"
+			"path": "java/flint.io/Port"
 		},
 		{
 			"name": "Adc",
-			"path": "examples/flint.io/Adc"
+			"path": "java/flint.io/Adc"
 		},
 		{
 			"name": "Dac",
-			"path": "examples/flint.io/Dac"
+			"path": "java/flint.io/Dac"
 		},
 		{
 			"name": "TouchPad",
-			"path": "examples/flint.io/TouchPad"
+			"path": "java/flint.io/TouchPad"
 		},
 		{
 			"name": "SerialPort",
-			"path": "examples/flint.io/SerialPort"
+			"path": "java/flint.io/SerialPort"
 		},
 		{
 			"name": "SpiMaster",
-			"path": "examples/flint.io/SpiMaster"
+			"path": "java/flint.io/SpiMaster"
 		},
 		{
 			"name": "I2cMaster",
-			"path": "examples/flint.io/I2cMaster"
+			"path": "java/flint.io/I2cMaster"
 		},
 		{
 			"name": "I2sMaster",
-			"path": "examples/flint.io/I2sMaster"
+			"path": "java/flint.io/I2sMaster"
 		},
 		{
 			"name": "OneWire",
-			"path": "examples/flint.io/OneWire"
+			"path": "java/flint.io/OneWire"
 		},
 		{
 			"name": "BitStream",
-			"path": "examples/flint.io/BitStream"
+			"path": "java/flint.io/BitStream"
 		},
 		{
 			"name": "WiFi_AP",
-			"path": "examples/flint.net/WiFi_AP"
+			"path": "java/flint.net/WiFi_AP"
 		},
 		{
 			"name": "WiFi_Scan",
-			"path": "examples/flint.net/WiFi_Scan"
+			"path": "java/flint.net/WiFi_Scan"
 		},
 		{
 			"name": "WiFi_Station",
-			"path": "examples/flint.net/WiFi_Station"
+			"path": "java/flint.net/WiFi_Station"
 		}
 	],
 	"settings": {}
