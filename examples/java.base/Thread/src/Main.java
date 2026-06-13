@@ -1,21 +1,21 @@
 
 public class Main {
     public static void main(String[] args) {
-        Thread thread1 = new Thread(new Runnable() {
+        Thread thread1 = new Thread() {
             @Override
             public void run() {
                 while(true) {
                     System.out.println("Hello from thread1");
-                    sleep(100);
+                    Main.sleep(100);
                 }
             }
-        });
+        };
 
         thread1.start();
 
         while(true) {
             System.out.println("Hello from main");
-            sleep(100);
+            Main.sleep(100);
         }
     }
 
