@@ -1,5 +1,5 @@
 
-// This example implements using OneWire to read temperature from DS18B20 sensor
+// This example implements using BitStream to drive WS2812 LED
 
 import flint.io.*;
 
